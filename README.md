@@ -1,4 +1,7 @@
 FlashLight-Android
 ==================
 
-FlashLight Android App
+
+![alt tag](https://lh5.ggpht.com/61QmvYET4srotQ4IWxSM2-kYmedg_QpG9rebbERUZMEsvq6tqO0MQ6Y5WLTdH9Z9Gt8=h900-rw)
+<br>
+Download from the Play store: https://play.google.com/store/apps/details?id=com.alexintosh.flashlight
