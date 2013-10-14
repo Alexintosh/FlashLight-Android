@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375634498000 47725 6ce84f189f9a37f68295e5986069d02fdad6638c /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-hdpi/btn_switch_on.png
+1375633329000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/values-sw720dp-land/values.xml
+1375641200000 1408 d1cb29754f88a55e1421bc37eb7f58e0632f1872 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/layout/activity_main.xml
+1375634498000 20624 13e6085b11167def2561b7416a2153f0d2a027cb /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-mdpi/btn_switch_on.png
+1375634498000 33721 81c5b4c13d87232bfa266438a34b54367383807a /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-hdpi/btn_switch_off.png
+1375633329000 3011 c29175e5f1773799c291e30ce3e5c0717b2c5cbc /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-mdpi/ic_launcher.png
+1375633329000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/menu/main.xml
+1375635330000 3559 24286feea2d18d631984672f97c791e807a1b5b6 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/raw/light_switch_off.mp3
+1375633329000 6327 d38af70a18f86fc903363f6f29352e9979bf94fa /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-hdpi/ic_launcher.png
+1375633329000 788 04f6efcd5008d74476c804b09366f471710bc0f6 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/values/values.xml
+1375635330000 4107 cfb16e2e539861da33b93dd1badcd3c591358fb4 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/raw/light_switch_on.mp3
+1375633329000 21067 02de89649deb1eb80b0a7a3e700b49390094356d /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-xxhdpi/ic_launcher.png
+1375633329000 10340 cfa1c9e5d087f2e9ced441de29ee2ecb7b2cac65 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1375634498000 14873 3eaee0e048ae2d6efcadfccb6342c5ab6fce036c /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-mdpi/btn_switch_off.png
+1375633329000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/values-v14/values.xml
+1375633329000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/values-v11/values.xml
+1375634498000 351 948766e30e7e699863f82c87e863880e73ab2041 /Users/alessiodelmonti/Coding/workspace/FlashLightProject/FlashLight/build/res/all/release/drawable-hdpi/radial_background.xml
